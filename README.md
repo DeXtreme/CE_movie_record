@@ -1,2 +1,2 @@
 # CE_movie_record
-Week 4: Todo - Movie record system
+A repo for the week 4 assignment
